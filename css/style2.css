@@ -1,0 +1,71 @@
+header{
+    width: 100%;
+   height: 100px;
+   background-image:url("pattern.png"); 
+   background-position: center;
+   background-repeat: repeat-x;
+   background-color: cornflowerblue;
+   text-align: left end;
+}
+#logo{
+   width:200px;
+}
+
+#titolo{
+   font-size: 60px;
+   font-weight: 900;
+}
+
+#sottotitoli{
+   color: darkgray;
+}
+
+main{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.color-blue{
+   color:lightskyblue;
+}
+#descrizione-foto{
+   font-size: small;
+}
+.testo-giallo{
+   background-color: yellow;
+}
+th{
+   background-color: #00BFFF;
+   color: white;
+}
+.colore-azzurro{
+   background-color: #87CEFA;
+}
+#colonna1{
+   text-align: left;
+   width:25%
+}
+#colonna3{
+   text-align: left;
+   width:50%;
+}
+.colore-grigio{
+   color:grey;
+}
+#immagine1{
+   width: 200px;
+   height: 200px;
+   background-size: cover;
+   background-position: center;
+   background-image: url("monitor.jpg");
+}
+#immagine2{
+   width: 200px;
+   height: 200px;
+   background-size: cover;
+   background-position: center;
+   background-image: url("graph.jpg");
+}
+.testo-foto{
+   color:white;
+   font-weight: bold;
+}
