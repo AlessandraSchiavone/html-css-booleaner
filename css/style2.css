@@ -51,7 +51,7 @@ th{
 .colore-grigio{
    color:grey;
 }
-#immagine1{
+.immagine1{
    width: 200px;
    height: 200px;
    background-size: cover;
